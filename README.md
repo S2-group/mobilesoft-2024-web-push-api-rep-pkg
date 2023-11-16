@@ -58,7 +58,7 @@ requirements.txt
 
 ---
 
-## Andriod-Runner-Kit (Experimental Process)
+## Android-Runner-Kit (Experimental Process)
 
 The procedures are successfully completed on a Raspberry Pi 3B with 1 GB of memory.
 
